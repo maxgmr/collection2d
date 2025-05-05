@@ -1,0 +1,16 @@
+[package]
+name = "collection2d"
+version = "0.1.0"
+authors = ["Max Gilmour <mgilmour@maxgmr.ca>"]
+edition = "2024"
+description = "Simple library for two-dimensional collections"
+readme = "README.md"
+homepage = "https://github.com/maxgmr/collection2d"
+repository = "https://github.com/maxgmr/collection2d"
+license = "AGPL-3.0-only"
+keywords = []
+categories = []
+exclude = []
+include = []
+
+[dependencies]
